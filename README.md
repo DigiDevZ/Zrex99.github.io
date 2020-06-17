@@ -7,7 +7,7 @@
       <style> body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:1em; } </style>
     </head>
     <body>
-    <strong>Privacy Policy</strong> <p>
+    <strong>Privacy YOLO Policy</strong> <p>
                   Zakarie Ortiz built the TaskMaster - Daily Habit Builder app as
                   a Free app. This SERVICE is provided by
                   Zakarie Ortiz at no cost and is intended for use as
